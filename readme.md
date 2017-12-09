@@ -32,9 +32,9 @@ sh ./bootstrap.sh
 ```
 
 ## Other Applications:
-  - Royal TSX
-  - Docker
-  - VMWare Fusion
+  - [Royal TSX](https://www.royalapplications.com/ts/mac/download)
+  - [Docker](https://download.docker.com/mac/stable/Docker.dmg)
+  - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
 
 ## Bash Setup
 You can find a large variety of dotfiles on git, below is mine:
