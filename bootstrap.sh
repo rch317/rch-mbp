@@ -61,7 +61,6 @@ if [ -z "$HOMEBREW_CASK_OPTS" ]; then
         # Make Brew Cask install programs in a more predictable location
         cask_opts="HOMEBREW_CASK_OPTS=--appdir=/Applications"
         export $cask_opts
-        shell_dot_file="$HOME/.zshrc"
         if [ ! -f "$shell_dot_file" ]; then
             shell_dot_file="$HOME/.bash_profile"
         fi
