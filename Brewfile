@@ -36,8 +36,5 @@ cask 'flux'
 cask 'caffeine'
 cask 'sourcetree'
 
-#mas 'Xcode', id: 497799835
-#mas 'Slack', id: 803453959
 mas 'Alfred', id: 405843582
 mas 'Evernote', id: 406056744
-mas 'LastPass', id: 926036361
