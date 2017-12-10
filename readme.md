@@ -1,9 +1,8 @@
 # macOS Setup
 
 A collection of tips & tricks I've used to setup my Mac after. Feel free to use
-whatever you want, or none at all.  I'm no export mac user. This is just stuff
+whatever you want, or none at all.  I'm no expert mac user. This is just stuff
 that works for me.
-
 
 ## Preferences
 
