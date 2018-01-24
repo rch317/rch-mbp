@@ -17,8 +17,6 @@ that works for me.
 Before you do anything else; it is highly recommended that you install some
 basic virus and malware protection software.
 
-***DO NOT PURCHASE LICENSES***
-
   -  [Avast](https://www.avast.com/en-us/mac)
   -  [Malware Bytes](https://www.malwarebytes.com/mac-download/)
 
@@ -54,7 +52,7 @@ git config --global credential.helper "osxkeychain"
 
 ## SSH
 ```shell
-ssh-keygen -t ed25519 -b 2048 -C "rob.hough@clearobject.com"
+ssh-keygen -t ed25519 -b 2048
 
 ### Create a config file
 cat <<EOF>~/.ssh/config

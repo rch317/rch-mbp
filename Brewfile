@@ -29,12 +29,11 @@ cask 'slack'
 cask 'spectacle'
 cask 'the-unarchiver'
 cask 'little-snitch'
-cask 'skype'
 cask 'vagrant'
 cask 'visual-studio-code'
 cask 'flux'
 cask 'caffeine'
 cask 'sourcetree'
 
-mas 'Alfred', id: 405843582
-mas 'Evernote', id: 406056744
+#mas 'Alfred', id: 405843582
+#mas 'Evernote', id: 406056744
