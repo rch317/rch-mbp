@@ -89,4 +89,8 @@ defaults write com.apple.finder ShowPathbar -bool true
 ### Display status bar
 defaults write com.apple.finder ShowStatusBar -bool true
 
+### Move screenshots to ~/Documents/Screenshots
+mkdir -p ~/Documents/Screenshots
+defaults write com.apple.screencapture location ~/Documents/Screenshots
+
 success_final
